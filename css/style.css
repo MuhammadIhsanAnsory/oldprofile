@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #393e46;
+  color: #21befc;
+  font-family: 'Comfortaa', cursive;
+}
+
+.bg-night {
+  background-color: #393e46;
+}
+
+.my-card:hover {
+  background-color: #f3f3f3 !important;
+  color: #393e46;
+  box-shadow: rgba(255, 255, 255, 0.4);
+  transition: 1s;
+}
